@@ -220,6 +220,7 @@ click on Add rule
 --> AMI & OS : Amazon Linux 2 ( free-tier )
 --> Instance type : t2.micro ( free-tier )
 --> key pair : SELECT EXISTING KEY ( key.pem )
+
 # Network settings
 click on EDIT
 --> VPC : three-tier-vpc
@@ -239,6 +240,7 @@ click on EDIT
 --> AMI & OS : Amazon Linux 2 ( free-tier )
 --> Instance type : t2.micro ( free-tier )
 --> key pair : SELECT EXISTING KEY ( key.pem )
+
 # Network settings
 click on EDIT
 --> VPC : three-tier-vpc
@@ -258,6 +260,7 @@ click on EDIT
 --> AMI & OS : Amazon Linux 2 ( free-tier )
 --> Instance type : t2.micro ( free-tier )
 --> key pair : SELECT EXISTING KEY ( key.pem )
+
 # Network settings
 click on EDIT
 --> VPC : three-tier-vpc
@@ -468,7 +471,7 @@ cd /opt/apache/bin
 - Now check that values are Stored or Not
 <video controls src="image/Screen Recording 2025-07-09 214434-1.mp4" title="Title"></video>
 - Also check in Database
-- go to Database server and check
+- Go to Database server and check
 ![alt text](<image/Screenshot 2025-07-09 214626.png>)
 
 ---
